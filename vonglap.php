@@ -17,6 +17,7 @@
 		}
 		echo '<br>';
 	}
+	echo "xin chào";
 	?>
 </body>
 </html>
